@@ -1,0 +1,8 @@
+.overline {
+  color: grey;
+  text-decoration: line-through;
+}
+
+.m-15 {
+  margin-left: 15px;
+}
